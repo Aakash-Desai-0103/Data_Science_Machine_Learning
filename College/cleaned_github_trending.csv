@@ -1,0 +1,21 @@
+repository,stars,programming_language,description
+pedroslopez/whatsapp-web.js,18896,JavaScript,A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+dockur/windows,44070,Shell,Windows inside a Docker container.
+JetBrains/koog,2831,Kotlin,"Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems"
+microsoft/PowerToys,123020,C#,Windows system utilities to maximize productivity
+LukeGus/Termix,2581,TypeScript,"Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities."
+appcypher/awesome-mcp-servers,3999,Unknown,Awesome MCP Servers - A curated list of Model Context Protocol servers
+ashishpatel26/500-AI-Agents-Projects,9410,Unknown,"The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more."
+kgrzybek/modular-monolith-with-ddd,12682,C#,Full Modular Monolith application with Domain-Driven Design approach.
+fullstackhero/dotnet-starter-kit,5935,C#,"Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included."
+jasontaylordev/CleanArchitecture,18846,Bicep,Clean Architecture Solution Template for ASP.NET Core
+dotnet/eShop,8879,C#,A reference .NET application implementing an eCommerce site
+chiphuyen/aie-book,7522,Jupyter Notebook,"[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)"
+dipakkr/A-to-Z-Resources-for-Students,19358,Unknown,✅ Curated list of resources for college students
+oraios/serena,11270,Python,A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+aquasecurity/trivy,28247,Go,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
+HKUDS/DeepCode,5425,Python,"""DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"""
+activepieces/activepieces,17426,TypeScript,AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+kestra-io/kestra,20649,Java,"⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation."
+TapXWorld/ChinaTextbook,48271,Roff,所有小初高、大学PDF教材。
+carthage-software/mago,934,Rust,Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
